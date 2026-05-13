@@ -67,32 +67,26 @@
 ## Screenshots
 
 <div align="center">
-
-**Home**
-![Home](screenshots/Page%20d'accueil.jpeg)
-
-**Shop**
-![Shop](screenshots/Boutique.jpeg)
-
-**Product Details**
-![Product Details](screenshots/Détails_produits.jpeg)
-
-**Shopping Cart**
-![Cart](screenshots/Panier.jpeg)
-
-**Checkout & Orders**
-![Checkout](screenshots/Chekout-commandes.jpeg)
-
-**Sign In**
-![Sign In](screenshots/Connexion.jpeg)
-
-**Sign Up**
-![Sign Up](screenshots/Inscription.jpeg)
-
+<table>
+  <tr>
+    <td align="center"><b>Home</b><br/><img src="screenshots/Page d'accueil.jpeg" width="380"/></td>
+    <td align="center"><b>Shop</b><br/><img src="screenshots/Boutique.jpeg" width="380"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Product Details</b><br/><img src="screenshots/Détails_produits.jpeg" width="380"/></td>
+    <td align="center"><b>Shopping Cart</b><br/><img src="screenshots/Panier.jpeg" width="380"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Checkout & Orders</b><br/><img src="screenshots/Chekout-commandes.jpeg" width="380"/></td>
+    <td align="center"><b>Sign In</b><br/><img src="screenshots/Connexion.jpeg" width="380"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Sign Up</b><br/><img src="screenshots/Inscription.jpeg" width="380"/></td>
+  </tr>
+</table>
 </div>
-
 ---
-
+ 
 <div align="center">
 
 > This is a showcase repository. The source code is private.
