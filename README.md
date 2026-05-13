@@ -69,19 +69,19 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><b>Home</b><br/><img src="screenshots/Page d'accueil.jpeg" width="380"/></td>
-    <td align="center"><b>Shop</b><br/><img src="screenshots/Boutique.jpeg" width="380"/></td>
+    <td align="center"><b>Home</b><br/><img src="Images/Page d'accueil.jpeg" width="380"/></td>
+    <td align="center"><b>Shop</b><br/><img src="Images/Boutique.jpeg" width="380"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Product Details</b><br/><img src="screenshots/Détails_produits.jpeg" width="380"/></td>
-    <td align="center"><b>Shopping Cart</b><br/><img src="screenshots/Panier.jpeg" width="380"/></td>
+    <td align="center"><b>Product Details</b><br/><img src="Images/Détails_produits.jpeg" width="380"/></td>
+    <td align="center"><b>Shopping Cart</b><br/><img src="Images/Panier.jpeg" width="380"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Checkout & Orders</b><br/><img src="screenshots/Chekout-commandes.jpeg" width="380"/></td>
-    <td align="center"><b>Sign In</b><br/><img src="screenshots/Connexion.jpeg" width="380"/></td>
+    <td align="center"><b>Checkout & Orders</b><br/><img src="Images/Chekout-commandes.jpeg" width="380"/></td>
+    <td align="center"><b>Sign In</b><br/><img src="Images/Connexion.jpeg" width="380"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><b>Sign Up</b><br/><img src="screenshots/Inscription.jpeg" width="380"/></td>
+    <td colspan="2" align="center"><b>Sign Up</b><br/><img src="Images/Inscription.jpeg" width="380"/></td>
   </tr>
 </table>
 </div>
